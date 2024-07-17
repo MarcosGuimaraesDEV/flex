@@ -1,0 +1,18 @@
+/*Reset no css*/
+body, h1, h2, ul, li, a{
+    margin: 0px;
+    padding: 0px;
+}
+
+*{
+    box-sizing: border-box;
+}
+/*Menu inicial*/
+.menu{
+    max-width: 960px;
+    display: flex;
+    flex: 1 1 260px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
